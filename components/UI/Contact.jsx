@@ -62,7 +62,7 @@ const Contact = () => {
 
             <div className={`${classes.social__links}`}>
               <Link
-                className="hover:text-[#01d293] duration-300"
+                className="hover:text-[#d20101] duration-300"
                 aria-label="Youtube Channel"
                 href="https://youtube.com/@piyushgargdev"
                 target="_blank"
